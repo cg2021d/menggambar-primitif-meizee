@@ -1,2 +1,3 @@
 # menggambar-primitif-meizee
-menggambar-primitif-meizee created by GitHub Classroom
+
+Zahra Dyah Meilani - 05111940000069
